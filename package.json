@@ -1,0 +1,7 @@
+{
+  "name": "monorepo-tools",
+  "version": "0.0.1",
+  "description": "Tools for syncing a monorepo into multiple read-only subrepos.",
+  "scripts": [ "monorepo-tools.sh" ],
+  "install": "make install"
+}
